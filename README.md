@@ -1,3 +1,3 @@
-## <b> go Webserver </b>
+## <b> go webserver </b>
 <i> Simple go webserver </i>
 
